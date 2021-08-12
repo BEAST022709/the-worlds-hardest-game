@@ -1,2 +1,1 @@
-# the-worlds-hardest-game
-pass the obstacles 
+# world-hardest-game
